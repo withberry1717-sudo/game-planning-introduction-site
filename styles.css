@@ -809,3 +809,9 @@ h3 {
     flex-direction: column;
   }
 }
+
+/* Added: emphasize how play analysis connects to future planning */
+.highlight-card {
+  border-color: rgba(69, 111, 179, 0.34);
+  background: #f4f7fb;
+}
